@@ -2,18 +2,31 @@
 Program to find a path to morph one word into another using a given dictionary.
 
 Sample input file:
+
 S
+
 10
+
 // Example simple dictionary
+
 chip
+
 chop
+
 junk
+
 leet
+
 let
+
 shin
+
 ship
+
 shop
+
 shot
+
 stop
 
 Morph modes to specify on command line:
